@@ -4,7 +4,7 @@ Submitted by: **Jiwoo Kim**
 
 **prework** is an app that contains my information (name, school, job aspiration) and changes its background color once the "Randomizer" button is pressed.
 
-Time spent: **1** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
@@ -30,11 +30,11 @@ GIF created with Kap and Giphy
 
 ## Notes
 
-One of the challenges was navigating XCode. When the instructions told me to open the Storyboard file, I did not what it was referring to, so I had to search it on the web. Another challenge was making sure to link the button to IBAction rather than IBOutlet. Initially, I used IBOutlet and tried to follow the instructions, which did not work. So, I saw that someone else had encountered the same problem on Slack and followed the instructions presented by a TA.
+One of the challenges was navigating XCode. When the instructions told me to open the Storyboard file, I did not know what it was referring to, so I had to search for it on the web. Another challenge was making sure to link the button to IBAction rather than IBOutlet. Initially, I used IBOutlet and tried to follow the instructions, which did not work. So, I saw that someone else had encountered the same problem on Slack and followed the instructions presented by a TA.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2023 Jiwoo Kim
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
