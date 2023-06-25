@@ -17,10 +17,10 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/a/g4veQ6d.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWI5c2VpNjZqcG1zbWJnbGNpY216ZTIwZ2pybGVqdHg1b3ozcnhsciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HWgndvOTHZ0HsDazKY/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Kap
+GIF created with Kap and Giphy
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -30,7 +30,7 @@ GIF created with Kap
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+One of the challenges was navigating XCode. When the instructions told me to open the Storyboard file, I did not what it was referring to, so I had to search it on the web. Another challenge was making sure to link the button to IBAction.
 
 ## License
 
